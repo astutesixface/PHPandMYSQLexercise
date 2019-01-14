@@ -1,5 +1,5 @@
 # PHP Essential Exercise
-## by [Astute Sixface](https://www.astutesixface/)
+## by [Astute Sixface](https://www.astutesixface.com/)
 
 
 
