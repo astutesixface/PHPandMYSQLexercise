@@ -57,19 +57,19 @@
 <li>HTTP Header</li>
 <li>Cookies</li>
 </ul>
-<p><strong>Module 7: MariaDB Basic</strong></p>
+<p><strong>Module 7: PHPMyAdmin Basic</strong></p>
 <ul>
 <li>Basic database concept</li>
 <li>Create/Delete database</li>
 <li>Create user</li>
 <li>Create/Delete/Show table</li>
-<li>CRUD in MariaDB</li>
+<li>CRUD in PHPMyAdmin</li>
 </ul>
-<p><strong>Module 8 Using PHP to access MariaDB</strong></p>
+<p><strong>Module 8 Using PHP to access PHPMyAdmin</strong></p>
 <ul>
-<li>PHP API for MariaDB</li>
-<li>Connecting to MariaDB</li>
-<li>MariaDB query</li>
+<li>PHP API for PHPMyAdmin</li>
+<li>Connecting to PHPMyAdmin</li>
+<li>PHPMyAdmin query</li>
 <li>Fetching data</li>
 <li>Creating record</li>
 <li>Updating data</li>
